@@ -1,4 +1,4 @@
-# -SelfAssessment
+# Pattern Programming in both python and php 
 This is the programme related to patterns which was written in both python and php 
 
 Given a string as input , return the list of all the patterns possible :
