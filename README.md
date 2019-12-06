@@ -1,2 +1,11 @@
 # -SelfAssessment
-These are the logical programmes attempted in innominds ( Replaced the logics in both php and python)
+This is the programme related to patterns which was written in both python and php 
+
+Given a string as input , return the list of all the patterns possible :
+
+'1': ['A','B','C'],
+'2': ['D','E'],
+'12': '['X']
+'3': ['P','Q']
+
+Example if input is '123' then output should be [ADP, ADQ, AEP, AEQ, BDP, BDQ, BEP, BEQ, CDP, CDQ, CEP, CEQ, XP, XQ]
